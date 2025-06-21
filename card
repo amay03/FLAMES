@@ -1,1 +1,25 @@
 
+<html>
+<head>
+  
+  <title>Birthday Card</title>
+  </head>
+  
+    <body background-image: url('https://images.unsplash.com/photo-1603570417035-7e0c6b3e8c88')>
+        <table border="1">
+            <div class="card">
+    <h1>🎉 Happy Birthday, Friend! 🎂</h1>
+    
+         <p>Wishing you joy, love, and laughter on your special day! Have  a wonderful and joyful life ahead.</p>
+    <a href="https://www.amazon.in/SVM-CRAFT%C2%AE-Rakhi-Greeting-style/dp/B0B25RXHBM?th=1" target="_blank">Click here for a surprise! 🎁</a>
+  </div>
+        </table>
+        
+    
+    
+    
+    
+    </body> 
+
+
+ </html>
